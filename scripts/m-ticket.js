@@ -100,7 +100,7 @@ for (let i = 0; i < myNodelist.length; i++) {
     })
 }
 
-const phoneNumber = document.getElementById('phone-number');
+const phoneNumber = document.getElementById('PhoneNumber');
 
 phoneNumber.addEventListener('input', function (){
     const nextButton = document.getElementById('next-btn');
